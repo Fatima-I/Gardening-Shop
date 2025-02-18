@@ -10,6 +10,7 @@ Then run the main.py file
 Following are some snippets of the running code i.e. the gui.
 
 **Login Page**
+
 ![image](https://github.com/user-attachments/assets/639b89d8-b3a8-45e4-a43f-7578b33a8c76)
 
 **Product Inventory**
